@@ -1,4 +1,4 @@
-#!/usr/bin/env bash -xe
+#!/bin/bash -xe
 
 
 #allow passing a commit message
