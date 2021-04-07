@@ -2,7 +2,7 @@
 title = "DynamoDB item count"
 date = 2021-03-05T00:00:00+08:00
 description = "Counting items of a DynamoDB table"
-tags = ["AWS", "aws-cli"]
+tags = ["AWS", "aws-cli", "databases"]
 showLicense = false
 draft = false
 +++
